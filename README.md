@@ -3,7 +3,6 @@ Este proyecto esta creado con la finalidad de hacer un presupuesto diario para
 administrar mejor mis gastos
 
 # Configuraciones
-
 ### Instalar / Activar myvenv
 ```
 python -m venv myvenv
